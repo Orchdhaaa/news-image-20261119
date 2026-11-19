@@ -11,9 +11,10 @@
 // out garbled. No network is used at run time; everything the program needs
 // ships in this repo.
 //
-// MORNING EDITION: the image was built from news verified by 07:00 WIB on
-// 19 November 2026. A refresh pass with the full day's news is planned
-// before the deadline (21 November 2026, 07:00 WIB).
+// EVENING EDITION: the image was refreshed with the full day's news
+// verified by 17:30 WIB on 19 November 2026 (trilateral outcome: met, no
+// deal; Gulf overnight exchange; GTA VI launch day; ICJ findings so far —
+// the operative genocide finding was still being read at refresh time).
 
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";

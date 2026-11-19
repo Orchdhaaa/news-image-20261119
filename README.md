@@ -8,19 +8,20 @@ An entry for make.fun's "Sum up 19 November's world news in one image" bounty.
 
 The image is a newspaper front page. The masthead reads "THE WORLD" and the
 date line is Thursday, 19 November 2026. It sums up the day in five stories,
-each checked against live news sources on 19 November 2026 (morning edition —
-news as reported by 07:00 WIB; a refresh pass with the full day's news is
-planned before the deadline):
+each checked against live news sources on 19 November 2026 (evening edition —
+news as reported by 17:30 WIB):
 
-1. **Trump, Xi and Putin meet in Shenzhen.** The first-ever trilateral of the
-   leaders of the world's three largest nuclear powers, at 2:30 p.m. local
-   time at Kylin Villa on the sidelines of APEC. Nuclear arms cuts and Iran
-   are on the agenda; Ukraine is not. The New START treaty expired in
-   February 2026.
-2. **Iran widens Gulf attacks — Kuwait struck.** Iran fired on US drone and
-   missile sites in Kuwait overnight, the first such attack since September,
-   after the US struck a missile site on Qeshm Island. Bahrain says it has
-   now intercepted Iranian attacks three times in a week.
+1. **Trump, Xi and Putin meet in Shenzhen — no deal.** The first-ever
+   trilateral of the leaders of the world's three largest nuclear powers,
+   at Kylin Villa on the sidelines of APEC. Trump and Putin also held a
+   40-minute one-on-one, dominated by Ukraine. No agreement and no joint
+   statement were announced.
+2. **Iran widens Gulf attacks — Kuwait struck.** Iran's drones targeted US
+   Patriot systems at Ali Al Salem air base overnight, but Kuwait reported
+   no casualties or damage. Bahrain stopped its fourth Iranian wave in six
+   days; Saudi Arabia downed Houthi missiles. An ADNOC-linked tanker was
+   hit in the Strait of Hormuz: 11 injured, 1 missing. No fresh exchange
+   was reported today.
 3. **Democrats take the Senate as Peltola wins Alaska.** Mary Peltola beat
    Republican Dan Sullivan 50.12% to 45.80%, giving Democrats a 56–44
    majority. She is the first Alaska Native elected to the US Senate.
@@ -28,15 +29,17 @@ planned before the deadline):
    its shares above the $70–78 range in one of the largest IPOs on record,
    the first by a major frontier AI developer. The stock debuts on Nasdaq
    under the ticker ANT.
-5. **GTA VI launches after 13 years.** Rockstar's Grand Theft Auto VI rolls
-   out worldwide today on PlayStation 5 and Xbox Series X|S, holding a 99
-   on Metacritic — tied for the highest score in the site's history.
+5. **GTA VI launches after 13 years.** Rockstar's Grand Theft Auto VI is out
+   today on PlayStation 5 and Xbox Series X|S, holding a 99 on Metacritic
+   from 147 reviews — tied for the highest score in the site's history.
+   Sensor Tower estimates 17.1M copies sold for ~$1.65B; Take-Two has
+   published no official figure.
 
 Also today: Kerch Bridge road arch in the strait, rail resumed; Nvidia board
-will not reinstate Huang, shares fell 2.89%; Fed minutes show most officials
-expect further rate hikes; ICJ to rule today in The Gambia v. Myanmar;
-Cyclone Akvan nears India's coast; markets: Dow -1.11%, S&P 500 -0.23%,
-Nasdaq +0.42%.
+will not reinstate Huang; Fed minutes show most officials expect further
+rate hikes; ICJ: court finds ~10,000 Rohingya killed in 2017, genocide
+verdict being read; Cyclone Akvan nears India's coast; markets: Dow -1.11%,
+S&P 500 -0.23%, Nasdaq +0.42%.
 
 Every story was verified against live news sources on 19 November 2026 (see
 SOURCES.md in the competition workspace). All text is set in real fonts, so
